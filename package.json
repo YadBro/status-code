@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "@yadiganteng32/status-code",
+  "version": "1.0.0",
+  "description": "Status Code for everyone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YadBro/status-code.git"
+  },
+  "author": "Yadi Apriyadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YadBro/status-code/issues"
+  },
+  "homepage": "https://github.com/YadBro/status-code#readme",
+  "keywords": [
+    "status-code",
+    "http",
+    "http-code"
+  ]
+}
