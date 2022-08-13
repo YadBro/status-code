@@ -20,5 +20,8 @@
     "status-code",
     "http",
     "http-code"
-  ]
+  ],
+  "dependencies": {
+    "@yadiganteng32/status-code": "^1.0.1"
+  }
 }
