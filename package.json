@@ -1,7 +1,6 @@
 {
-  "type": "module",
   "name": "@yadiganteng32/status-code",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Status Code for everyone",
   "main": "index.js",
   "scripts": {

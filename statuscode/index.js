@@ -32,4 +32,4 @@ const internalServerCode=   {
 
 
 
-export default { success, badRequestCode, notFoundCode, unAuthorizeCode, conflictCode, internalServerCode }
+module.exports = { success, badRequestCode, notFoundCode, unAuthorizeCode, conflictCode, internalServerCode }

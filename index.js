@@ -1,3 +1,3 @@
-import {success, badRequestCode, conflictCode, internalServerCode, notFoundCode, unAuthorizeCode} from "./statuscode";
+const {success, badRequestCode, conflictCode, internalServerCode, notFoundCode, unAuthorizeCode} = require("./statuscode");
 
-export default {success, badRequestCode, conflictCode, internalServerCode, notFoundCode, unAuthorizeCode};
+module.exports={success, badRequestCode, conflictCode, internalServerCode, notFoundCode, unAuthorizeCode};
